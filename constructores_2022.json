@@ -1,0 +1,52 @@
+[
+  {
+    "constructor": "Red Bull",
+    "nationality": "Austrian",
+    "points": 8439
+  },
+  {
+    "constructor": "Ferrari",
+    "nationality": "Italian",
+    "points": 6584
+  },
+  {
+    "constructor": "Mercedes",
+    "nationality": "German",
+    "points": 5596
+  },
+  {
+    "constructor": "Alpine F1 Team",
+    "nationality": "French",
+    "points": 1887
+  },
+  {
+    "constructor": "McLaren",
+    "nationality": "British",
+    "points": 1852
+  },
+  {
+    "constructor": "Alfa Romeo",
+    "nationality": "Swiss",
+    "points": 936
+  },
+  {
+    "constructor": "Haas F1 Team",
+    "nationality": "American",
+    "points": 562
+  },
+  {
+    "constructor": "AlphaTauri",
+    "nationality": "Italian",
+    "points": 549
+  },
+  {
+    "constructor": "Aston Martin",
+    "nationality": "British",
+    "points": 489
+  },
+  {
+    "constructor": "Williams",
+    "nationality": "British",
+    "points": 89
+  }
+]
